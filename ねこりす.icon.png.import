@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ri3obig7xpyf"
-path="res://.godot/imported/ねこりす.icon.png-46c840f6922fa91250de49d8dd0b1374.ctex"
+uid="uid://yms8oy5tlgnc"
+path="res://.godot/imported/ねこりす.icon.png-66e91af8adcbfdb19ccde9bd9be214d6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ねこりす.icon.png"
-dest_files=["res://.godot/imported/ねこりす.icon.png-46c840f6922fa91250de49d8dd0b1374.ctex"]
+source_file="res://web/ねこりす.icon.png"
+dest_files=["res://.godot/imported/ねこりす.icon.png-66e91af8adcbfdb19ccde9bd9be214d6.ctex"]
 
 [params]
 
